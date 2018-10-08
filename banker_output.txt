@@ -1,0 +1,5 @@
+Average Time Spent by Clients: 43
+Percent Time by Teller1: 849.01%
+Percent Time by Teller2: 859.653%
+Percent Time by Teller3: 366.337%
+Percent Time by Teller4: 348.762%
